@@ -1,0 +1,4 @@
+echo practice for my second lauunch
+echo  welcome to my launch file victory
+echo on 
+date
